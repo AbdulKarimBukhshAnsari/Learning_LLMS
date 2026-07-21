@@ -5,3 +5,6 @@ pypdf
 pymupdf
 ipykernel
 tiktoken
+sentence-transformers
+faiss-cpu
+chromadb

@@ -8,3 +8,6 @@ tiktoken
 sentence-transformers
 faiss-cpu
 chromadb
+python-dotenv
+langchain-groq
+
